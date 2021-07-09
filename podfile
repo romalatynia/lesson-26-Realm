@@ -1,0 +1,15 @@
+platform :ios, '11.0'
+use_frameworks!
+
+target 'RealmLesson' do
+  pod 'RealmSwift', '4.4.0'
+  pod 'SwiftLint' 
+end
+
+
+
+
+
+
+
+
